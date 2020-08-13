@@ -1,4 +1,4 @@
-<h1> Therianthropes </h2>
+<h1> Therianthropes </h1>
 
 <i>This phenomenon is similar to what is still known today as animalism (or nagualism or theriocentrism). It is characterized by close magical and religious ties of humans with animals, especially with wild animals. It is also characterized in terms of otherworldly and superworldly realms and practices, such as placating and begging for forgiveness of the game killed, performing oracles with animal bones, and performing mimic animal dances and fertility rites for animals. Animals were thought to be manlike, to have souls, or to be equipped with magical powers. Animalism thus expresses itself in various conceptions of how animals are regarded as guardian spirits and “alter egos,” of the facile and frequent interchangeability between human and animal forms, and also of a theriomorphically (animal-formed) envisioned higher being—one who changes between human and animal forms and unifies them. </i>
 [Britannica](https://www.britannica.com/topic/prehistoric-religion/Sacrifices#ref508928)
