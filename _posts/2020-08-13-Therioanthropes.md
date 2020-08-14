@@ -14,8 +14,8 @@
 <p>And then the environmental crisis, the climate, the looming pandemics, the population explosion, and the destruction of the biosphere made us feel vulnerable again. Our technology and civilisation will not find the solution, because it is the problem in its present form. Extinction is not a far-off word, the circle is closing – if (and there is a big question mark over this) we will survive we need to show nature respect, approach it once again with humility. We are not masters – we are equal. The fact that it was us who dominated the planet and not the whales, the octopus, or the elephants, was as much of an accident as the fact that it was the Europeans and not the Chinese, the Indians or another civilisation that colonised the world from the 16th century onwards. We can not go on exploiting the planet indefinetely, destroying, ravaging and exausting it to death unpunished.
 <p>The imbalance will need to be set right. Soon. 
   
- Yiannos Economou August 2020
- NOTES:
- (*) (https://www.theguardian.com/artanddesign/2019/dec/12/humans-were-not-centre-stage-ancient-cave-art-painting-lascaux-chauvet-altamira)
- (**) (https://en.wikipedia.org/wiki/Lion-man) 
+ <p>Yiannos Economou, August 2020
+<p> NOTES:
+ <p>(*) (https://www.theguardian.com/artanddesign/2019/dec/12/humans-were-not-centre-stage-ancient-cave-art-painting-lascaux-chauvet-altamira)
+ <p>(**) (https://en.wikipedia.org/wiki/Lion-man) 
   
