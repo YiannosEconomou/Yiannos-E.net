@@ -18,5 +18,5 @@
 <p> NOTES:
  <p>[*] (https://www.theguardian.com/artanddesign/2019/dec/12/humans-were-not-centre-stage-ancient-cave-art-painting-lascaux-chauvet-altamira)
  <p>[**] (https://en.wikipedia.org/wiki/Lion-man) 
-  <p>[***] (https://en.wikipedia.org/wiki/Clever_Hans) 
+  <p>[***] (https://en.wikipedia.org/wiki/Clever_Hans)  
   
