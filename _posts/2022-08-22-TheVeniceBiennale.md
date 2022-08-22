@@ -1,5 +1,6 @@
 
-WAS THIS THE MOST IRRELEVANT BIENNALE EVER?</p>
+WAS THIS THE MOST IRRELEVANT BIENNALE EVER?
+
 <p>
 Actually, it was quite good. But it was conceived before Covid and was presented after the pandemic, the war in Ukraine, the intensification of the 
 climatic crisis, the new economy of the shortages, the queues, and the end of plenty. Naturally, some of the exhibits seemed out of phase. 
@@ -9,7 +10,7 @@ Brazil, some African nations, and even the Nordic pavilion, this time representi
 <p>
 Some big players were good, like the USA, which I personally found edgier than the award-winning UK, both by black women dealing with
 issues of race and gender. It is the second time in a row that the prize goes to a pavilion that uses music, but unlike the accomplished
-“Sun and Sea” of Lithuania in 2019, Sonia Boyce’s work looked experimental and amateurish. Don’t do music unless you know music I would suggest.</p>
+<b><i>Sun and Sea</b></i> of Lithuania in 2019, Sonia Boyce’s work looked experimental and amateurish. Don’t do music unless you know music I would suggest.</p>
 <p>
 The two-phase mode was also discernible in the two exhibitions: The Giardini was ordinary, memorable only by the already well-published 
 emphasis on women artists and painting, a looking backward exhibition that paid homage to many forgotten or unrecognized, female mostly, artists. 
@@ -17,8 +18,8 @@ But the Arsenale was challenging. If Cecilia Alemani planned it in 2020  it is a
 but most of the works were completed between 2020 and 2022, which to me is an indication that it was put together the last few months 
 before the opening, taking on board all the major issues in orbit, in the post covid metamorphosis.  In a respectful for the works display,
 a search for new stories unfolded, sometimes raw and oversimplified, but an earnest search nevertheless, for a new perception, guided by the
-likes of Ursula Le Guin, and her “Carrier bag” theory of fiction, Donna Haraway and her Cyborgs, (not to mention a direct reference to her Children
-of the Compost stories, by the video “Songs of the Compost”) and even Lyn Margulis.</p>
+likes of Ursula Le Guin, and her <b> “Carrier bag” theory of fiction </b>, Donna Haraway and her <b>Cyborgs </b>, (not to mention a direct reference to her <i></b>Children
+of the Compost</i> </b>stories, by the video <b><i>Songs of the Compost</b></i> by Eglė Budvytytė) and even Lyn Margulis.</p>
 
  
 <p>
@@ -34,12 +35,13 @@ of knowledge and new politics of identity.</i><p>
 
  
 <p>
-So chunks of compost and invasive vines introduced across continents and videos, paintings and sculptures about mutants, hybrids, 
-and cross-species interactions were on display, and though some of them came with a déjà vu quality, the context was fresh.  And as
+So chunks of compost and invasive vines introduced across continents by colonialism, videos, paintings and sculptures about mutants, hybrids, 
+and cross-species interactions and the dissolution of the border between humans and nature were on display, and though some of them came 
+ with a déjà vu quality, the context was fresh.  And as
 bio-power gave way to geontopower an emphasis on the land, the soil, and organic and inorganic matter, our new homeland dictated the show. 
-A little gem, Ali Cherry’s poetic video “Of Gods and Men and Mud” (2022), about a group of sub-Saharan workers making mud bricks for a 
+ A little gem, Ali Cherry’s poetic video <i><b>Of Gods and Men and Mud </i> </b> (2022), about a group of sub-Saharan workers making mud bricks for a 
 hydro-electric dam in Sudan won my heart.</p>
 
-
-And this show was light years away from Guggenheim across the canal and the perception of Surrealism as a flight into dreams, magic and fantasy, and not as the
+<p>
+And this show was light years away from Guggenheim across the canal and the perception of Surrealism as a flight into dreams, magic and fantasy,instead of the
 revolutionary movement that it really was.
