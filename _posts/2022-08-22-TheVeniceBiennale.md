@@ -10,7 +10,7 @@ Brazil, some African nations, and even the Nordic pavilion, this time representi
 <p>
 Some big players were good, like the USA, which I personally found edgier than the award-winning UK, both by black women dealing with
 issues of race and gender. It is the second time in a row that the prize goes to a pavilion that uses music, but unlike the accomplished
-<b><i>Sun and Sea</b></i> of Lithuania in 2019, Sonia Boyce’s work looked experimental and amateurish. Don’t do music unless you know music I would suggest.</p>
+<b> <i> Sun and Sea </b> </i> of Lithuania in 2019, Sonia Boyce’s work looked experimental and amateurish. Don’t do music unless you know music I would suggest. </p>
 <p>
 The two-phase mode was also discernible in the two exhibitions: The Giardini was ordinary, memorable only by the already well-published 
 emphasis on women artists and painting, a looking backward exhibition that paid homage to many forgotten or unrecognized, female mostly, artists. 
@@ -18,8 +18,8 @@ But the Arsenale was challenging. If Cecilia Alemani planned it in 2020  it is a
 but most of the works were completed between 2020 and 2022, which to me is an indication that it was put together the last few months 
 before the opening, taking on board all the major issues in orbit, in the post covid metamorphosis.  In a respectful for the works display,
 a search for new stories unfolded, sometimes raw and oversimplified, but an earnest search nevertheless, for a new perception, guided by the
-likes of Ursula Le Guin, and her <b> “Carrier bag” theory of fiction </b>, Donna Haraway and her <b>Cyborgs </b>, (not to mention a direct reference to her <i></b>Children
-of the Compost</i> </b>stories, by the video <b><i>Songs of the Compost</b></i> by Eglė Budvytytė) and even Lyn Margulis.</p>
+likes of Ursula Le Guin, and her <b> “Carrier bag” theory of fiction </b>, Donna Haraway and her <b> Cyborgs </b>, (not to mention a direct reference to her <i> <b> Children
+of the Compost </i> </b> stories, by the video <b><i>Songs of the Compost </b> </i> by Eglė Budvytytė) and even Lyn Margulis. </p>
 
  
 <p>
@@ -31,7 +31,7 @@ challenges the modern Western vision of the human being - especially the suppose
 of the universe and measure of all things. In its place, some artists celebrate a new communion with the non-human, with the animal kingdom, 
 and with the Earth; others attempt to "re-enchant" the world, proposing new alliances between species and new realms inhabited by porous, 
 hybrid, manifold beings. Still, others react to the dissolution of ostensibly universal systems, rediscovered localized or indigenous forms 
-of knowledge and new politics of identity.</i><p>
+of knowledge and new politics of identity. </i> </p>
 
  
 <p>
@@ -39,8 +39,9 @@ So chunks of compost and invasive vines introduced across continents by colonial
 and cross-species interactions and the dissolution of the border between humans and nature were on display, and though some of them came 
  with a déjà vu quality, the context was fresh.  And as
 bio-power gave way to geontopower an emphasis on the land, the soil, and organic and inorganic matter, our new homeland dictated the show. 
- A little gem, Ali Cherry’s poetic video <i><b>Of Gods and Men and Mud </i> </b> (2022), about a group of sub-Saharan workers making mud bricks for a 
-hydro-electric dam in Sudan won my heart.</p>
+ A little gem, Ali Cherry’s poetic video <i> <b> Of Gods and Men and Mud </i> </b> (2022), about a group of sub-Saharan workers making mud bricks for a 
+hydro-electric dam in Sudan won my heart.
+</p>
 
 <p>
 And this show was light years away from Guggenheim across the canal and the perception of Surrealism as a flight into dreams, magic and fantasy,instead of the
