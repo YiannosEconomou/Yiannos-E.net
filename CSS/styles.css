@@ -70,7 +70,30 @@ h4 {
       padding: 15px;
       
     } 
-    
+    <style>
+  .top-nav {
+    background-color: #002a30;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding: 0.625rem 0;
+  }
+
+  .top-nav a {
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 0.875rem 1.81rem;
+    text-decoration: none;
+    font-size: 1.6rem;
+    transition: background 0.3s;
+  }
+
+  .top-nav a:hover {
+    background-color: #3c6615;
+  }
+
+
 
     p {
       
