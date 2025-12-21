@@ -326,7 +326,73 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+/* Additions to make it smartphone friendly */
 
+@media (max-width: 600px) {
+  .content-container {
+    width: 100%;
+    margin: 0;
+    padding: 15px;
+  }
+}
+
+   
+@media (max-width: 600px) {
+  h1 {
+    font-size: 2rem;   /* ~32px */
+    padding: 10px;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+    padding: 10px;
+  }
+
+  h3, h4 {
+    font-size: 1.1rem;
+  }
+
+  h5 {
+    font-size: 2rem;
+  }
+
+  body {
+    font-size: 1rem;
+  }
+}
+
+
+@media (max-width: 600px) {
+  img {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .grid-gallery {
+    grid-template-columns: 1fr;
+    gap: 12px;
+    padding: 6px;
+  }
+
+  .grid-gallery img {
+    aspect-ratio: auto; /* prevents forced cropping on phones */
+  }
+}
+
+@media (max-width: 600px) {
+  .main-text,
+  .greek-text {
+    font-size: 0.95rem;
+    padding: 12px;
+    margin: 15px auto;
+  }
+}
+html, body {
+  overflow-x: hidden;
+}
+
+@media (max-width: 600px) { ... }
 
 
    
