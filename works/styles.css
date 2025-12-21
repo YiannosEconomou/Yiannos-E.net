@@ -106,7 +106,7 @@ h4 {
   }
 
   h5 {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
 
   body {
@@ -154,7 +154,7 @@ html, body {
     h5 {
            
      font-family: 'Martian Mono', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
-      font-size: 50px;
+      font-size: 1.5rem;
       color: #000000;
       text-align: center;
       padding: 15px;
