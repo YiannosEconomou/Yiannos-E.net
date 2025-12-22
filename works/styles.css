@@ -1,3 +1,4 @@
+
 /* Basic Reset */
 *{
     margin: 0;
@@ -7,7 +8,7 @@
 
     body {
       font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       color: #333;
       background-color: #ffffff;
     }
@@ -18,9 +19,9 @@
 
     h1 {
            
-     font-family: 'Martian Mono', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
+     font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
       font-size: 50px;
-      color: #000000;
+      color: #002a30;
       text-align: center;
       padding: 15px;
       
@@ -40,13 +41,13 @@ section {
 h2 {
  font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
       font-size: 1.6rem;
-      color: #000607;
+      color: #002a30;
       text-align: center;
       padding: 15px;
 }
 h3 {
     font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
-  color: #000000;       /* Text color */
+  color: #002a30;       /* Text color */
   font-size: 20px;      /* Font size */
   font-weight: bold;    /* Make text bold */
   text-align: center;   /* Center align */
@@ -57,16 +58,20 @@ h4 {
     font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
   color: #002a30;       /* Text color */
   font-size: 20px;      /* Font size */
-
-
-    @media (max-width: 600px) {
-  .content-container {
-    width: 100%;
-    margin: 0;
-    padding: 15px;
-  }
+  font-weight: bold;    /* Make text bold */
+  text-align: left;   /* Center align */
+  margin-top: 20px;     /* Add space above */
 }
-
+      h5 {
+           
+     font-family:'Martian Mono'; /* Fallback to sans-serif if Fredoka is not available */
+      font-size: 50px;
+      color: #000000;
+      text-align: center;
+      padding: 15px;
+      
+    } 
+    
   .top-nav {
     background-color: #002a30;
     overflow: hidden;
@@ -88,95 +93,21 @@ h4 {
   .top-nav a:hover {
     background-color: #3c6615;
   }
-    
- 
-@media (max-width: 600px) {
-  h1 {
-    font-size: 2rem;   /* ~32px */
-    padding: 10px;
-  }
-
-  h2 {
-    font-size: 1.3rem;
-    padding: 10px;
-  }
-
-  h3, h4 {
-    font-size: 1.1rem;
-  }
-
-  h5 {
-    font-size: 1.5rem;
-  }
-
-  body {
-    font-size: 1rem;
-  }
-}
 
 
-@media (max-width: 600px) {
-  img {
-    max-width: 100%;
-  }
-}
-
-@media (max-width: 600px) {
-  .grid-gallery {
-    grid-template-columns: 1fr;
-    gap: 12px;
-    padding: 6px;
-  }
-
-  .grid-gallery img {
-    aspect-ratio: auto; /* prevents forced cropping on phones */
-  }
-}
-
-@media (max-width: 600px) {
-  .main-text,
-  .greek-text {
-    font-size: 0.95rem;
-    padding: 12px;
-    margin: 15px auto;
-  }
-}
-html, body {
-  overflow-x: hidden;
-}
-
-@media (max-width: 600px) { ... }
-  font-weight: bold;    /* Make text bold */
-  text-align: left;   /* Center align */
-  margin-top: 20px;     /* Add space above */
-}
-      
-    h5 {
-           
-     font-family: 'Martian Mono', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
-      font-size: 1.5rem;
-      color: #000000;
-      text-align: center;
-      padding: 15px;
-      
-    }   
 
     p {
       
       
     }
 .main-text {
-font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not available */
-     
-      color: #333;
-      background-color: #ffffff;
-  margin: 20px auto;       /* 20px top/bottom, auto left/right for centering */
+    margin: 20px auto;       /* 20px top/bottom, auto left/right for centering */
     padding: 15px;           /* Inner spacing */    
     max-width: 980px;        /* Optional: limits text width for readability */
-    font-size: 1.2rem;         /* Standard text size */
+    font-size: 1rem;         /* Standard text size */
     line-height: 1.6;        /* Improves readability */
-    
-    
+    color: #253a2f;             /* Text color */
+    background-color: #dcdcdc;  /* Background color */
     box-sizing: border-box;  /* Ensures padding and border are included in total width */
 }
 
@@ -184,10 +115,10 @@ font-family: 'Fredoka', sans-serif; /* Fallback to sans-serif if Fredoka is not 
     margin: 20px auto;       /* 20px top/bottom, auto left/right for centering */
     padding: 15px;           /* Inner spacing */    
     max-width: 980px;        /* Optional: limits text width for readability */
-    font-size: 0.650rem;         /* Standard text size */
+    font-size: 0.875rem;         /* Standard text size */
     line-height: 1.6;        /* Improves readability */
-    color: #021227;             /* Text color */
-    background-color: #ffffff;  /* Background color */
+    color: #052247;             /* Text color */
+    background-color: #dcdcdc;  /* Background color */
     box-sizing: border-box;  /* Ensures padding and border are included in total width */
 }
 
@@ -428,12 +359,3 @@ html, body {
     width: 100%;
   }
 }
-
-
-
-   
-
-
-
-
-
