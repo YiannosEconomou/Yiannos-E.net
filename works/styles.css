@@ -165,7 +165,28 @@ h4 {
   width: 100%;
   height: 100%;
 }
+/*ERASE THIS IF IT MESSES SLIDES OR ANYTING ELSE*/
 
+.mySlides {
+  display: flex;
+  flex-direction: column;
+}
+
+.mySlides img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.caption {
+  margin-top: 10px;          /* space between image and text */
+  padding: 0 10px;           /* breathing room on phones */
+  font-size: 14px;
+  line-height: 1.4;
+  color: #000;               /* or whatever you prefer */
+  background: none;
+}
+/*END OF SLIDE INTERVENTION*/
 
 /* General image styling */
 img {
