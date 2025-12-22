@@ -181,7 +181,7 @@ h4 {
 .caption {
   margin-top: 10px;          /* space between image and text */
   padding: 0 10px;           /* breathing room on phones */
-  font-size: 14px;
+  font-size: 1rem;
   line-height: 1.4;
   color: #000;               /* or whatever you prefer */
   background: none;
