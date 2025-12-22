@@ -93,6 +93,27 @@ h4 {
     background-color: #3c6615;
   }
 
+.navbar-compact {
+  background-color: #f2f2f2;   /* soft grey */
+  padding: 12px 14px;
+  font-family: sans-serif;
+}
+
+.navbar-compact p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.navbar-compact a {
+  color: #5f0015;
+  text-decoration: none;
+  white-space: nowrap; /* keeps titles intact */
+}
+
+.navbar-compact a:hover {
+  text-decoration: underline;
+}
 
 
     p {
