@@ -70,7 +70,24 @@ h4 {
       padding: 15px;
       
     } 
-    
+
+
+a:link {
+  color: #002a30;   /* unvisited link */
+}
+
+a:visited {
+  color: ##002a30;   /* visited link */
+}
+
+a:hover {
+  color: ##00301c;   /* mouse over link */
+}
+
+a:active {
+  color: #301a00;   /* when clicked */
+}
+
   .top-nav {
     background-color: #002a30;
     overflow: hidden;
